@@ -1,0 +1,27 @@
+{
+  "name": "servicenswlesson11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha",
+    "pointers": "node.\\src\\VariablePointers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelGil82/ServiceNSWLesson11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelGil82/ServiceNSWLesson11/issues"
+  },
+  "homepage": "https://github.com/MarcelGil82/ServiceNSWLesson11#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
